@@ -1,0 +1,13 @@
+﻿Build started 7/25/2013 3:09:56 PM.
+     1>Project "C:\Users\Braden Steffaniak\Documents\Visual Studio 2012\Projects\CFoxyUtil\CFoxyUtil\CFoxyUtil.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Braden Steffaniak\Documents\Visual Studio 2012\Projects\CFoxyUtil\x64\Debug\CFoxyUtil.lib" /NOLOGO /MACHINE:X64 x64\Debug\Source.obj
+         CFoxyUtil.vcxproj -> C:\Users\Braden Steffaniak\Documents\Visual Studio 2012\Projects\CFoxyUtil\x64\Debug\CFoxyUtil.lib
+     1>Done Building Project "C:\Users\Braden Steffaniak\Documents\Visual Studio 2012\Projects\CFoxyUtil\CFoxyUtil\CFoxyUtil.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
