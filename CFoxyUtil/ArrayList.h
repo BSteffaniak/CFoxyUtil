@@ -75,7 +75,7 @@ void ArrayList<E>::removeElement(E element)
 template <class E>
 int ArrayList<E>::size()
 {
-	return list.size();
+	return (int)list.size();
 }
 
 template <class E>
